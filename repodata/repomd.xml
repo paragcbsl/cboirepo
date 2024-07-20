@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repomd xmlns="http://linux.duke.edu/metadata/repo" xmlns:rpm="http://linux.duke.edu/metadata/rpm">
+  <revision>1.0</revision>
+  <data type="primary">
+    <location href="repodata/primary.xml.gz"/>
+    <checksum type="sha256">abcd1234</checksum>
+    <timestamp>2024-07-19T12:00:00Z</timestamp>
+    <size>12345678</size>
+  </data>
+  <data type="filelists">
+    <location href="repodata/filelists.xml.gz"/>
+    <checksum type="sha256">efgh5678</checksum>
+    <timestamp>2024-07-19T12:00:00Z</timestamp>
+    <size>23456789</size>
+  </data>
+  <!-- Add more data tags for other types if necessary -->
+</repomd>
